@@ -1,4 +1,4 @@
-MY TO-DO LIST
+Y TO-DO LIST
 
 1. Write an article.
 2. Code.
@@ -6,3 +6,4 @@ MY TO-DO LIST
 4. Attend classes on time.
 5. Visit aunt.
 6. Apply for remote jobs. 
+7. Practice code
